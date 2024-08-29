@@ -1,0 +1,5 @@
+ykug 1 1 2022 bbbb Monastir 10001->25000 22  
+123 1 1 2022 uu Monastir 100001->500000 40  
+77 1 1 2022 hjdf Ariana ÿ 840  
+12 1 1 2022 113 Ariana ÿ 840  
+0123 1 1 2022 113 Monastir ÿ 840  
